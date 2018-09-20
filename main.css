@@ -8,13 +8,13 @@ color:#313131;
 h1{
 	font-size: 24px;
 	font-weight: 100;
-	color: #9CC;
+	color: #999;
 }
 h2{
 	font-size: 18px;
 	font-weight: normal;
 	font-family: "ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
-	color: #9CF;
+	color: #999;
 }
 hr{
 	content: '';
@@ -29,8 +29,9 @@ div{
 	}
 dt{
 	line-height: 0.5em;
-	font-weight: bold;
-	background-color: #FFF1E5;
+	font-weight: normal;
+	background-color: #666666;
 	letter-spacing: 0.3em;
 	padding: 8px;
+	color: #FFF;
 }
