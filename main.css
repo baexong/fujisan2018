@@ -5,8 +5,18 @@ font: 14px/1.6 "Hiragino Kaku Gothic Pro",Osaka,"メイリオ","ＭＳ Ｐゴシ
 margin:0;
 color:#313131;
 }
+h1{
+	font-size: 14px;
+}
+h2{
+	font-size: 16px;
+	background-color: #9CF;
+	font-weight: 100;
+	font-family: "ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
+}
 div{
-	margin: 15px;
+	margin: 0 auto;
+	width: 85%;
 	}
 dt{
 	line-height: 0.5em;
