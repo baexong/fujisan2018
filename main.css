@@ -1,9 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 body{
-font: 14px/1.6 "Hiragino Kaku Gothic Pro",Osaka,"メイリオ","ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
-margin:0;
-color:#313131;
+	font: 14px/1.6 "Hiragino Kaku Gothic Pro",Osaka,"メイリオ","ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
+	margin: 0;
+	color: #313131;
+	background-attachment: fixed;
+	background-image: url(hero.jpg);
+	background-repeat: no-repeat;
 }
 h1{
 	font-size: 24px;
