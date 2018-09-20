@@ -30,7 +30,9 @@ div{
 	margin: 0 auto;
 	width: 85%;
 	line-height: 2em;
-	background: rgba(255,255,255,0.8);
+	}
+.info-main{
+	background: rgba(255,255,255,255.8);
 	}
 dt{
 	line-height: 0.5em;
