@@ -31,7 +31,7 @@ div{
 	width: 85%;
 	line-height: 2em;
 	}
-.info-main{
+div.info-main{
 	background: rgba(255,255,255,255.8);
 	}
 dt{
