@@ -22,6 +22,7 @@ hr{
 div{
 	margin: 0 auto;
 	width: 85%;
+	line-height: 2em;
 	}
 dt{
 	line-height: 0.5em;
@@ -30,4 +31,5 @@ dt{
 	letter-spacing: 0.3em;
 	padding: 15px;
 	color: #FFF;
+	margin-top: 15px;
 }
