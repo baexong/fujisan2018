@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+font: 14px/1.6 "Hiragino Kaku Gothic Pro",Osaka,"メイリオ","ＭＳ Ｐゴシック","MS PGothic",Verdana,Arial,sans-serif;
+margin:0;
+color:#313131;
+}
+div{
+	margin: 15px;
+	}
+dt{
+	line-height: 0.5em;
+	font-weight: bold;
+	background-color: #FCC;
+	letter-spacing: 0.3em;
+	padding: 8px;
+}
